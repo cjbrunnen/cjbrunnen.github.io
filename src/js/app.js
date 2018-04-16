@@ -13,16 +13,16 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": ["#FD6A81", "#FB4562"]
       },
       "shape": {
-        "type": "polygon",
+        "type": "triangle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": ["#FD6A81", "#FB4562"]
         },
-        "polygon": {
-          "nb_sides": 5
+        "triangle": {
+          "nb_sides": 3
         },
         "image": {
           "src": "img/github.svg",
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "line_linked": {
         "enable": true,
         "distance": 150,
-        "color": "#ffffff",
+        "color": "#D4FE94",
         "opacity": 0.4,
         "width": 1
       },
@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "events": {
         "onhover": {
           "enable": false,
-          "mode": "grab"
+          "mode": "repulse"
         },
         "onclick": {
           "enable": true,

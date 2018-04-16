@@ -2,11 +2,11 @@
 title: Caz Brunnen
 description: Web Developer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: http://cazbrunnen.com
 
 # User settings
 username: Caz Brunnen
-user_description: I'm an experienced junior developer based in Sydney with an interest in creative projects and emerging technologies. I have over a year's agency experience and am excited to find my next opportunity in web development.
+user_description: I'm a junior/mid-weight developer based in Sydney with an interest in creative projects and emerging technologies. I have over a year's agency experience and am excited to find my next opportunity in web development.
 user_title: Front-end Developer
 email: cazbrunnen@gmail.com
 twitter_username: _hashbang
