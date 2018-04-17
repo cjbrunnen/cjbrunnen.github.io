@@ -1,3 +1,10 @@
 nav {
-    color: $main;
+    background-color: $main;
+}
+
+.header-links {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
