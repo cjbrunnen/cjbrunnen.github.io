@@ -31,3 +31,13 @@
   text-align: center;
   margin: 5px auto;
 }
+
+.user-details #profile-pic {
+  height: 200px;
+  border-radius: 50%;
+  padding-top: 20px;
+}
+.user-details .no-top-margin {
+  margin-top: 0em;
+  padding-top: 0em;
+}
